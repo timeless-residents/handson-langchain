@@ -60,16 +60,15 @@ def calculator(expression):
         # Perform calculation
         if op == "+":
             return left + right
-        elif op == "-":
+        if op == "-":
             return left - right
-        elif op == "*":
+        if op == "*":
             return left * right
-        elif op == "/":
+        if op == "/":
             if right == 0:
                 return "計算エラー: ゼロによる除算はできません"
             return left / right
-        else:
-            return "計算エラー: サポートされていない演算子です"
+        return "計算エラー: サポートされていない演算子です"
 
     except ValueError:
         return "計算エラー: 無効な数値です"
