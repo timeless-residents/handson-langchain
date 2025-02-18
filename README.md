@@ -18,7 +18,7 @@ This repository provides a structured approach to learning modern LLM applicatio
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/timeless-residents/langchain-tutorial.git
+   git clone https://github.com/timeless-residents/handson-langchain.git
    cd langchain-tutorial
    ```
    This command creates a local copy of the repository. We use HTTPS cloning for broader compatibility and easier setup compared to SSH, especially for users behind corporate firewalls.
