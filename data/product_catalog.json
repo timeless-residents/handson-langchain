@@ -1,0 +1,1878 @@
+[
+  {
+    "id": 1000,
+    "name": "PowerTech Smartwatch",
+    "category": "Electronics",
+    "brand": "PowerTech",
+    "price": 109.69,
+    "rating": 4.1,
+    "reviews": 92,
+    "in_stock": false,
+    "attributes": {
+      "screen_size": "5.5\"",
+      "storage": "64 GB",
+      "battery_life": "6 hours",
+      "color": "Black",
+      "wireless": true
+    }
+  },
+  {
+    "id": 1001,
+    "name": "VisualPro Camera",
+    "category": "Electronics",
+    "brand": "VisualPro",
+    "price": 756.93,
+    "rating": 4.8,
+    "reviews": 791,
+    "in_stock": false,
+    "attributes": {
+      "screen_size": "27\"",
+      "storage": "256 GB",
+      "battery_life": "20 hours",
+      "color": "Blue",
+      "wireless": false
+    }
+  },
+  {
+    "id": 1002,
+    "name": "TechGiant Tablet",
+    "category": "Electronics",
+    "brand": "TechGiant",
+    "price": 512.27,
+    "rating": 4.5,
+    "reviews": 518,
+    "in_stock": true,
+    "attributes": {
+      "screen_size": "6.7\"",
+      "storage": "128 GB",
+      "battery_life": "9 hours",
+      "color": "Blue",
+      "wireless": false
+    }
+  },
+  {
+    "id": 1003,
+    "name": "SmartLife Tablet",
+    "category": "Electronics",
+    "brand": "SmartLife",
+    "price": 546.84,
+    "rating": 4.9,
+    "reviews": 722,
+    "in_stock": true,
+    "attributes": {
+      "screen_size": "6.7\"",
+      "storage": "64 GB",
+      "battery_life": "12 hours",
+      "color": "Blue",
+      "wireless": true
+    }
+  },
+  {
+    "id": 1004,
+    "name": "SoundMaster Speaker",
+    "category": "Electronics",
+    "brand": "SoundMaster",
+    "price": 232.82,
+    "rating": 3.8,
+    "reviews": 310,
+    "in_stock": true,
+    "attributes": {
+      "screen_size": "27\"",
+      "storage": "128 GB",
+      "battery_life": "12 hours",
+      "color": "Silver",
+      "wireless": true
+    }
+  },
+  {
+    "id": 1005,
+    "name": "PowerTech Smartwatch",
+    "category": "Electronics",
+    "brand": "PowerTech",
+    "price": 594.78,
+    "rating": 3.3,
+    "reviews": 289,
+    "in_stock": false,
+    "attributes": {
+      "screen_size": "13.3\"",
+      "storage": "128 GB",
+      "battery_life": "5 hours",
+      "color": "Red",
+      "wireless": true
+    }
+  },
+  {
+    "id": 1006,
+    "name": "SoundMaster Headphones",
+    "category": "Electronics",
+    "brand": "SoundMaster",
+    "price": 960.94,
+    "rating": 3.9,
+    "reviews": 873,
+    "in_stock": false,
+    "attributes": {
+      "screen_size": "15.6\"",
+      "storage": "512 GB",
+      "battery_life": "18 hours",
+      "color": "Red",
+      "wireless": false
+    }
+  },
+  {
+    "id": 1007,
+    "name": "TechGiant Headphones",
+    "category": "Electronics",
+    "brand": "TechGiant",
+    "price": 986.84,
+    "rating": 3.5,
+    "reviews": 917,
+    "in_stock": true,
+    "attributes": {
+      "screen_size": "6.7\"",
+      "storage": "512 GB",
+      "battery_life": "10 hours",
+      "color": "Silver",
+      "wireless": false
+    }
+  },
+  {
+    "id": 1008,
+    "name": "VisualPro Laptop",
+    "category": "Electronics",
+    "brand": "VisualPro",
+    "price": 730.41,
+    "rating": 4.2,
+    "reviews": 716,
+    "in_stock": true,
+    "attributes": {
+      "screen_size": "5.5\"",
+      "storage": "128 GB",
+      "battery_life": "5 hours",
+      "color": "Black",
+      "wireless": false
+    }
+  },
+  {
+    "id": 1009,
+    "name": "TechGiant Laptop",
+    "category": "Electronics",
+    "brand": "TechGiant",
+    "price": 942.65,
+    "rating": 4.6,
+    "reviews": 325,
+    "in_stock": false,
+    "attributes": {
+      "screen_size": "5.5\"",
+      "storage": "512 GB",
+      "battery_life": "6 hours",
+      "color": "Silver",
+      "wireless": true
+    }
+  },
+  {
+    "id": 1010,
+    "name": "VisualPro Speaker",
+    "category": "Electronics",
+    "brand": "VisualPro",
+    "price": 427.76,
+    "rating": 4.4,
+    "reviews": 631,
+    "in_stock": true,
+    "attributes": {
+      "screen_size": "13.3\"",
+      "storage": "256 GB",
+      "battery_life": "9 hours",
+      "color": "White",
+      "wireless": true
+    }
+  },
+  {
+    "id": 1011,
+    "name": "TechGiant Headphones",
+    "category": "Electronics",
+    "brand": "TechGiant",
+    "price": 617.24,
+    "rating": 3.1,
+    "reviews": 893,
+    "in_stock": true,
+    "attributes": {
+      "screen_size": "6.1\"",
+      "storage": "1024 GB",
+      "battery_life": "11 hours",
+      "color": "Black",
+      "wireless": true
+    }
+  },
+  {
+    "id": 1012,
+    "name": "SmartLife Camera",
+    "category": "Electronics",
+    "brand": "SmartLife",
+    "price": 656.69,
+    "rating": 3.4,
+    "reviews": 552,
+    "in_stock": true,
+    "attributes": {
+      "screen_size": "6.7\"",
+      "storage": "64 GB",
+      "battery_life": "18 hours",
+      "color": "Red",
+      "wireless": true
+    }
+  },
+  {
+    "id": 1013,
+    "name": "SoundMaster Tablet",
+    "category": "Electronics",
+    "brand": "SoundMaster",
+    "price": 579.14,
+    "rating": 3.3,
+    "reviews": 778,
+    "in_stock": false,
+    "attributes": {
+      "screen_size": "5.5\"",
+      "storage": "512 GB",
+      "battery_life": "10 hours",
+      "color": "Silver",
+      "wireless": true
+    }
+  },
+  {
+    "id": 1014,
+    "name": "TechGiant Headphones",
+    "category": "Electronics",
+    "brand": "TechGiant",
+    "price": 727.92,
+    "rating": 4.4,
+    "reviews": 638,
+    "in_stock": true,
+    "attributes": {
+      "screen_size": "13.3\"",
+      "storage": "256 GB",
+      "battery_life": "19 hours",
+      "color": "Black",
+      "wireless": false
+    }
+  },
+  {
+    "id": 1015,
+    "name": "VisualPro Smartphone",
+    "category": "Electronics",
+    "brand": "VisualPro",
+    "price": 145.38,
+    "rating": 3.0,
+    "reviews": 418,
+    "in_stock": false,
+    "attributes": {
+      "screen_size": "13.3\"",
+      "storage": "512 GB",
+      "battery_life": "5 hours",
+      "color": "Silver",
+      "wireless": false
+    }
+  },
+  {
+    "id": 1016,
+    "name": "VisualPro Speaker",
+    "category": "Electronics",
+    "brand": "VisualPro",
+    "price": 324.19,
+    "rating": 4.4,
+    "reviews": 403,
+    "in_stock": false,
+    "attributes": {
+      "screen_size": "15.6\"",
+      "storage": "512 GB",
+      "battery_life": "20 hours",
+      "color": "Red",
+      "wireless": false
+    }
+  },
+  {
+    "id": 1017,
+    "name": "VisualPro Smartphone",
+    "category": "Electronics",
+    "brand": "VisualPro",
+    "price": 991.09,
+    "rating": 4.2,
+    "reviews": 219,
+    "in_stock": true,
+    "attributes": {
+      "screen_size": "27\"",
+      "storage": "64 GB",
+      "battery_life": "14 hours",
+      "color": "Black",
+      "wireless": false
+    }
+  },
+  {
+    "id": 1018,
+    "name": "TechGiant Laptop",
+    "category": "Electronics",
+    "brand": "TechGiant",
+    "price": 96.36,
+    "rating": 3.2,
+    "reviews": 740,
+    "in_stock": false,
+    "attributes": {
+      "screen_size": "6.1\"",
+      "storage": "256 GB",
+      "battery_life": "4 hours",
+      "color": "White",
+      "wireless": true
+    }
+  },
+  {
+    "id": 1019,
+    "name": "TechGiant Smartwatch",
+    "category": "Electronics",
+    "brand": "TechGiant",
+    "price": 476.79,
+    "rating": 4.5,
+    "reviews": 760,
+    "in_stock": false,
+    "attributes": {
+      "screen_size": "5.5\"",
+      "storage": "128 GB",
+      "battery_life": "6 hours",
+      "color": "Black",
+      "wireless": false
+    }
+  },
+  {
+    "id": 1020,
+    "name": "ComfortFit Dress",
+    "category": "Clothing",
+    "brand": "ComfortFit",
+    "price": 407.84,
+    "rating": 3.4,
+    "reviews": 369,
+    "in_stock": true,
+    "attributes": {
+      "size": "M",
+      "color": "Blue",
+      "material": "Polyester",
+      "gender": "Men",
+      "season": "Spring"
+    }
+  },
+  {
+    "id": 1021,
+    "name": "ActiveWear Dress",
+    "category": "Clothing",
+    "brand": "ActiveWear",
+    "price": 948.26,
+    "rating": 4.8,
+    "reviews": 323,
+    "in_stock": false,
+    "attributes": {
+      "size": "XXL",
+      "color": "Green",
+      "material": "Wool",
+      "gender": "Men",
+      "season": "Fall"
+    }
+  },
+  {
+    "id": 1022,
+    "name": "ComfortFit Dress",
+    "category": "Clothing",
+    "brand": "ComfortFit",
+    "price": 664.51,
+    "rating": 3.6,
+    "reviews": 124,
+    "in_stock": true,
+    "attributes": {
+      "size": "XL",
+      "color": "Black",
+      "material": "Polyester",
+      "gender": "Unisex",
+      "season": "Fall"
+    }
+  },
+  {
+    "id": 1023,
+    "name": "ComfortFit Dress",
+    "category": "Clothing",
+    "brand": "ComfortFit",
+    "price": 389.31,
+    "rating": 4.4,
+    "reviews": 665,
+    "in_stock": true,
+    "attributes": {
+      "size": "XXL",
+      "color": "Red",
+      "material": "Polyester",
+      "gender": "Women",
+      "season": "Winter"
+    }
+  },
+  {
+    "id": 1024,
+    "name": "ActiveWear Shoes",
+    "category": "Clothing",
+    "brand": "ActiveWear",
+    "price": 884.9,
+    "rating": 3.0,
+    "reviews": 106,
+    "in_stock": false,
+    "attributes": {
+      "size": "XS",
+      "color": "White",
+      "material": "Leather",
+      "gender": "Unisex",
+      "season": "Summer"
+    }
+  },
+  {
+    "id": 1025,
+    "name": "UrbanStyle Jeans",
+    "category": "Clothing",
+    "brand": "UrbanStyle",
+    "price": 503.66,
+    "rating": 4.7,
+    "reviews": 771,
+    "in_stock": false,
+    "attributes": {
+      "size": "S",
+      "color": "White",
+      "material": "Wool",
+      "gender": "Men",
+      "season": "Winter"
+    }
+  },
+  {
+    "id": 1026,
+    "name": "ClassicApparel Dress",
+    "category": "Clothing",
+    "brand": "ClassicApparel",
+    "price": 145.05,
+    "rating": 3.9,
+    "reviews": 560,
+    "in_stock": true,
+    "attributes": {
+      "size": "XL",
+      "color": "White",
+      "material": "Leather",
+      "gender": "Men",
+      "season": "All Season"
+    }
+  },
+  {
+    "id": 1027,
+    "name": "ClassicApparel Jacket",
+    "category": "Clothing",
+    "brand": "ClassicApparel",
+    "price": 783.43,
+    "rating": 3.3,
+    "reviews": 531,
+    "in_stock": true,
+    "attributes": {
+      "size": "M",
+      "color": "Purple",
+      "material": "Cotton",
+      "gender": "Men",
+      "season": "Fall"
+    }
+  },
+  {
+    "id": 1028,
+    "name": "LuxuryThreads Jeans",
+    "category": "Clothing",
+    "brand": "LuxuryThreads",
+    "price": 81.24,
+    "rating": 4.5,
+    "reviews": 379,
+    "in_stock": false,
+    "attributes": {
+      "size": "M",
+      "color": "Yellow",
+      "material": "Polyester",
+      "gender": "Unisex",
+      "season": "Spring"
+    }
+  },
+  {
+    "id": 1029,
+    "name": "ActiveWear T-Shirt",
+    "category": "Clothing",
+    "brand": "ActiveWear",
+    "price": 650.14,
+    "rating": 4.1,
+    "reviews": 106,
+    "in_stock": false,
+    "attributes": {
+      "size": "M",
+      "color": "White",
+      "material": "Denim",
+      "gender": "Women",
+      "season": "Fall"
+    }
+  },
+  {
+    "id": 1030,
+    "name": "ActiveWear Hat",
+    "category": "Clothing",
+    "brand": "ActiveWear",
+    "price": 831.94,
+    "rating": 3.2,
+    "reviews": 192,
+    "in_stock": false,
+    "attributes": {
+      "size": "XXL",
+      "color": "Black",
+      "material": "Leather",
+      "gender": "Unisex",
+      "season": "Spring"
+    }
+  },
+  {
+    "id": 1031,
+    "name": "ClassicApparel Hat",
+    "category": "Clothing",
+    "brand": "ClassicApparel",
+    "price": 650.63,
+    "rating": 3.8,
+    "reviews": 289,
+    "in_stock": true,
+    "attributes": {
+      "size": "M",
+      "color": "Blue",
+      "material": "Wool",
+      "gender": "Women",
+      "season": "Winter"
+    }
+  },
+  {
+    "id": 1032,
+    "name": "ActiveWear Jacket",
+    "category": "Clothing",
+    "brand": "ActiveWear",
+    "price": 83.69,
+    "rating": 3.3,
+    "reviews": 735,
+    "in_stock": false,
+    "attributes": {
+      "size": "XL",
+      "color": "White",
+      "material": "Denim",
+      "gender": "Unisex",
+      "season": "All Season"
+    }
+  },
+  {
+    "id": 1033,
+    "name": "ActiveWear Jacket",
+    "category": "Clothing",
+    "brand": "ActiveWear",
+    "price": 32.76,
+    "rating": 4.9,
+    "reviews": 271,
+    "in_stock": false,
+    "attributes": {
+      "size": "XS",
+      "color": "Black",
+      "material": "Polyester",
+      "gender": "Women",
+      "season": "Summer"
+    }
+  },
+  {
+    "id": 1034,
+    "name": "ComfortFit Jacket",
+    "category": "Clothing",
+    "brand": "ComfortFit",
+    "price": 865.68,
+    "rating": 4.1,
+    "reviews": 583,
+    "in_stock": false,
+    "attributes": {
+      "size": "S",
+      "color": "Black",
+      "material": "Denim",
+      "gender": "Women",
+      "season": "Fall"
+    }
+  },
+  {
+    "id": 1035,
+    "name": "ComfortFit Jacket",
+    "category": "Clothing",
+    "brand": "ComfortFit",
+    "price": 111.37,
+    "rating": 4.9,
+    "reviews": 840,
+    "in_stock": true,
+    "attributes": {
+      "size": "XXL",
+      "color": "Yellow",
+      "material": "Leather",
+      "gender": "Women",
+      "season": "Spring"
+    }
+  },
+  {
+    "id": 1036,
+    "name": "ActiveWear Dress",
+    "category": "Clothing",
+    "brand": "ActiveWear",
+    "price": 89.25,
+    "rating": 4.9,
+    "reviews": 946,
+    "in_stock": false,
+    "attributes": {
+      "size": "S",
+      "color": "Black",
+      "material": "Cotton",
+      "gender": "Men",
+      "season": "Spring"
+    }
+  },
+  {
+    "id": 1037,
+    "name": "LuxuryThreads Jacket",
+    "category": "Clothing",
+    "brand": "LuxuryThreads",
+    "price": 991.22,
+    "rating": 4.4,
+    "reviews": 54,
+    "in_stock": true,
+    "attributes": {
+      "size": "XS",
+      "color": "Purple",
+      "material": "Polyester",
+      "gender": "Unisex",
+      "season": "Spring"
+    }
+  },
+  {
+    "id": 1038,
+    "name": "UrbanStyle T-Shirt",
+    "category": "Clothing",
+    "brand": "UrbanStyle",
+    "price": 107.59,
+    "rating": 4.4,
+    "reviews": 884,
+    "in_stock": true,
+    "attributes": {
+      "size": "L",
+      "color": "Red",
+      "material": "Wool",
+      "gender": "Men",
+      "season": "Fall"
+    }
+  },
+  {
+    "id": 1039,
+    "name": "ActiveWear T-Shirt",
+    "category": "Clothing",
+    "brand": "ActiveWear",
+    "price": 567.03,
+    "rating": 4.5,
+    "reviews": 328,
+    "in_stock": false,
+    "attributes": {
+      "size": "XXL",
+      "color": "Yellow",
+      "material": "Wool",
+      "gender": "Men",
+      "season": "All Season"
+    }
+  },
+  {
+    "id": 1040,
+    "name": "CozyLiving Cookware Set",
+    "category": "Home & Kitchen",
+    "brand": "CozyLiving",
+    "price": 827.38,
+    "rating": 4.2,
+    "reviews": 59,
+    "in_stock": false,
+    "attributes": {
+      "color": "White",
+      "material": "Wood",
+      "dishwasher_safe": true,
+      "warranty": "1 years",
+      "weight": "9.2 lbs"
+    }
+  },
+  {
+    "id": 1041,
+    "name": "ChefChoice Cookware Set",
+    "category": "Home & Kitchen",
+    "brand": "ChefChoice",
+    "price": 301.16,
+    "rating": 3.3,
+    "reviews": 583,
+    "in_stock": false,
+    "attributes": {
+      "color": "Red",
+      "material": "Plastic",
+      "dishwasher_safe": false,
+      "warranty": "10 years",
+      "weight": "6.7 lbs"
+    }
+  },
+  {
+    "id": 1042,
+    "name": "HomeCraft Blender",
+    "category": "Home & Kitchen",
+    "brand": "HomeCraft",
+    "price": 219.46,
+    "rating": 3.9,
+    "reviews": 460,
+    "in_stock": true,
+    "attributes": {
+      "color": "White",
+      "material": "Ceramic",
+      "dishwasher_safe": true,
+      "warranty": "5 years",
+      "weight": "4.6 lbs"
+    }
+  },
+  {
+    "id": 1043,
+    "name": "ModernHome Table Lamp",
+    "category": "Home & Kitchen",
+    "brand": "ModernHome",
+    "price": 579.64,
+    "rating": 4.2,
+    "reviews": 258,
+    "in_stock": false,
+    "attributes": {
+      "color": "White",
+      "material": "Glass",
+      "dishwasher_safe": true,
+      "warranty": "5 years",
+      "weight": "4.2 lbs"
+    }
+  },
+  {
+    "id": 1044,
+    "name": "CozyLiving Bedding Set",
+    "category": "Home & Kitchen",
+    "brand": "CozyLiving",
+    "price": 496.59,
+    "rating": 3.3,
+    "reviews": 828,
+    "in_stock": true,
+    "attributes": {
+      "color": "White",
+      "material": "Metal",
+      "dishwasher_safe": false,
+      "warranty": "5 years",
+      "weight": "8.4 lbs"
+    }
+  },
+  {
+    "id": 1045,
+    "name": "HomeCraft Bedding Set",
+    "category": "Home & Kitchen",
+    "brand": "HomeCraft",
+    "price": 273.39,
+    "rating": 4.7,
+    "reviews": 776,
+    "in_stock": true,
+    "attributes": {
+      "color": "Silver",
+      "material": "Glass",
+      "dishwasher_safe": true,
+      "warranty": "5 years",
+      "weight": "1.9 lbs"
+    }
+  },
+  {
+    "id": 1046,
+    "name": "CozyLiving Coffee Maker",
+    "category": "Home & Kitchen",
+    "brand": "CozyLiving",
+    "price": 900.96,
+    "rating": 4.4,
+    "reviews": 620,
+    "in_stock": false,
+    "attributes": {
+      "color": "Blue",
+      "material": "Ceramic",
+      "dishwasher_safe": false,
+      "warranty": "10 years",
+      "weight": "3.4 lbs"
+    }
+  },
+  {
+    "id": 1047,
+    "name": "KitchenWiz Toaster",
+    "category": "Home & Kitchen",
+    "brand": "KitchenWiz",
+    "price": 766.26,
+    "rating": 3.1,
+    "reviews": 521,
+    "in_stock": true,
+    "attributes": {
+      "color": "White",
+      "material": "Metal",
+      "dishwasher_safe": false,
+      "warranty": "10 years",
+      "weight": "11.9 lbs"
+    }
+  },
+  {
+    "id": 1048,
+    "name": "ChefChoice Knife Set",
+    "category": "Home & Kitchen",
+    "brand": "ChefChoice",
+    "price": 586.49,
+    "rating": 4.8,
+    "reviews": 827,
+    "in_stock": false,
+    "attributes": {
+      "color": "Silver",
+      "material": "Ceramic",
+      "dishwasher_safe": false,
+      "warranty": "2 years",
+      "weight": "14.4 lbs"
+    }
+  },
+  {
+    "id": 1049,
+    "name": "CozyLiving Knife Set",
+    "category": "Home & Kitchen",
+    "brand": "CozyLiving",
+    "price": 730.96,
+    "rating": 3.5,
+    "reviews": 739,
+    "in_stock": false,
+    "attributes": {
+      "color": "Red",
+      "material": "Plastic",
+      "dishwasher_safe": true,
+      "warranty": "10 years",
+      "weight": "4.1 lbs"
+    }
+  },
+  {
+    "id": 1050,
+    "name": "CozyLiving Bedding Set",
+    "category": "Home & Kitchen",
+    "brand": "CozyLiving",
+    "price": 300.05,
+    "rating": 4.9,
+    "reviews": 848,
+    "in_stock": false,
+    "attributes": {
+      "color": "Silver",
+      "material": "Metal",
+      "dishwasher_safe": true,
+      "warranty": "1 years",
+      "weight": "3.2 lbs"
+    }
+  },
+  {
+    "id": 1051,
+    "name": "CozyLiving Blender",
+    "category": "Home & Kitchen",
+    "brand": "CozyLiving",
+    "price": 293.14,
+    "rating": 4.6,
+    "reviews": 980,
+    "in_stock": false,
+    "attributes": {
+      "color": "Silver",
+      "material": "Ceramic",
+      "dishwasher_safe": false,
+      "warranty": "10 years",
+      "weight": "4.1 lbs"
+    }
+  },
+  {
+    "id": 1052,
+    "name": "CozyLiving Toaster",
+    "category": "Home & Kitchen",
+    "brand": "CozyLiving",
+    "price": 788.06,
+    "rating": 3.2,
+    "reviews": 518,
+    "in_stock": true,
+    "attributes": {
+      "color": "Red",
+      "material": "Wood",
+      "dishwasher_safe": true,
+      "warranty": "10 years",
+      "weight": "2.1 lbs"
+    }
+  },
+  {
+    "id": 1053,
+    "name": "CozyLiving Toaster",
+    "category": "Home & Kitchen",
+    "brand": "CozyLiving",
+    "price": 593.51,
+    "rating": 3.9,
+    "reviews": 307,
+    "in_stock": false,
+    "attributes": {
+      "color": "Black",
+      "material": "Ceramic",
+      "dishwasher_safe": true,
+      "warranty": "5 years",
+      "weight": "3.6 lbs"
+    }
+  },
+  {
+    "id": 1054,
+    "name": "HomeCraft Bedding Set",
+    "category": "Home & Kitchen",
+    "brand": "HomeCraft",
+    "price": 87.48,
+    "rating": 3.2,
+    "reviews": 612,
+    "in_stock": true,
+    "attributes": {
+      "color": "Black",
+      "material": "Metal",
+      "dishwasher_safe": false,
+      "warranty": "5 years",
+      "weight": "1.2 lbs"
+    }
+  },
+  {
+    "id": 1055,
+    "name": "ModernHome Blender",
+    "category": "Home & Kitchen",
+    "brand": "ModernHome",
+    "price": 173.13,
+    "rating": 4.9,
+    "reviews": 13,
+    "in_stock": false,
+    "attributes": {
+      "color": "Red",
+      "material": "Metal",
+      "dishwasher_safe": false,
+      "warranty": "5 years",
+      "weight": "1.5 lbs"
+    }
+  },
+  {
+    "id": 1056,
+    "name": "CozyLiving Table Lamp",
+    "category": "Home & Kitchen",
+    "brand": "CozyLiving",
+    "price": 369.22,
+    "rating": 3.8,
+    "reviews": 648,
+    "in_stock": true,
+    "attributes": {
+      "color": "Red",
+      "material": "Metal",
+      "dishwasher_safe": false,
+      "warranty": "5 years",
+      "weight": "10.4 lbs"
+    }
+  },
+  {
+    "id": 1057,
+    "name": "CozyLiving Coffee Maker",
+    "category": "Home & Kitchen",
+    "brand": "CozyLiving",
+    "price": 260.6,
+    "rating": 3.6,
+    "reviews": 182,
+    "in_stock": false,
+    "attributes": {
+      "color": "White",
+      "material": "Wood",
+      "dishwasher_safe": true,
+      "warranty": "5 years",
+      "weight": "3.0 lbs"
+    }
+  },
+  {
+    "id": 1058,
+    "name": "KitchenWiz Table Lamp",
+    "category": "Home & Kitchen",
+    "brand": "KitchenWiz",
+    "price": 133.24,
+    "rating": 5.0,
+    "reviews": 397,
+    "in_stock": true,
+    "attributes": {
+      "color": "Red",
+      "material": "Glass",
+      "dishwasher_safe": true,
+      "warranty": "5 years",
+      "weight": "4.5 lbs"
+    }
+  },
+  {
+    "id": 1059,
+    "name": "ModernHome Knife Set",
+    "category": "Home & Kitchen",
+    "brand": "ModernHome",
+    "price": 347.28,
+    "rating": 4.9,
+    "reviews": 315,
+    "in_stock": true,
+    "attributes": {
+      "color": "White",
+      "material": "Metal",
+      "dishwasher_safe": false,
+      "warranty": "1 years",
+      "weight": "10.1 lbs"
+    }
+  },
+  {
+    "id": 1060,
+    "name": "KitchenWiz Bedding Set",
+    "category": "Home & Kitchen",
+    "brand": "KitchenWiz",
+    "price": 603.92,
+    "rating": 4.0,
+    "reviews": 669,
+    "in_stock": true,
+    "attributes": {
+      "color": "Black",
+      "material": "Ceramic",
+      "dishwasher_safe": false,
+      "warranty": "5 years",
+      "weight": "5.2 lbs"
+    }
+  },
+  {
+    "id": 1061,
+    "name": "ModernHome Coffee Maker",
+    "category": "Home & Kitchen",
+    "brand": "ModernHome",
+    "price": 588.8,
+    "rating": 4.9,
+    "reviews": 146,
+    "in_stock": false,
+    "attributes": {
+      "color": "Silver",
+      "material": "Plastic",
+      "dishwasher_safe": true,
+      "warranty": "5 years",
+      "weight": "1.2 lbs"
+    }
+  },
+  {
+    "id": 1062,
+    "name": "The Great Exploration of Romance",
+    "category": "Books",
+    "brand": "FictionHouse",
+    "price": 542.14,
+    "rating": 4.1,
+    "reviews": 875,
+    "in_stock": true,
+    "attributes": {
+      "author": "John Smith",
+      "pages": 703,
+      "language": "English",
+      "format": "Hardcover",
+      "publication_year": 2022,
+      "genre": "Romance"
+    }
+  },
+  {
+    "id": 1063,
+    "name": " Hidden History of Biography",
+    "category": "Books",
+    "brand": "FictionHouse",
+    "price": 803.49,
+    "rating": 3.7,
+    "reviews": 73,
+    "in_stock": true,
+    "attributes": {
+      "author": "Michael Davis",
+      "pages": 567,
+      "language": "English",
+      "format": "Hardcover",
+      "publication_year": 2022,
+      "genre": "Biography"
+    }
+  },
+  {
+    "id": 1064,
+    "name": " Secret  Mystery",
+    "category": "Books",
+    "brand": "KnowledgePress",
+    "price": 45.83,
+    "rating": 3.8,
+    "reviews": 400,
+    "in_stock": false,
+    "attributes": {
+      "author": "Michael Davis",
+      "pages": 119,
+      "language": "English",
+      "format": "Audiobook",
+      "publication_year": 1996,
+      "genre": "Mystery"
+    }
+  },
+  {
+    "id": 1065,
+    "name": "A Great History of Fiction",
+    "category": "Books",
+    "brand": "FictionHouse",
+    "price": 874.96,
+    "rating": 4.3,
+    "reviews": 471,
+    "in_stock": true,
+    "attributes": {
+      "author": "Lisa Williams",
+      "pages": 449,
+      "language": "English",
+      "format": "Paperback",
+      "publication_year": 1994,
+      "genre": "Fiction"
+    }
+  },
+  {
+    "id": 1066,
+    "name": "A Essential  History",
+    "category": "Books",
+    "brand": "WisdomBooks",
+    "price": 156.82,
+    "rating": 4.7,
+    "reviews": 869,
+    "in_stock": false,
+    "attributes": {
+      "author": "David Brown",
+      "pages": 519,
+      "language": "English",
+      "format": "Audiobook",
+      "publication_year": 2022,
+      "genre": "History"
+    }
+  },
+  {
+    "id": 1067,
+    "name": "A Great Exploration of Science Fiction",
+    "category": "Books",
+    "brand": "StoryWeaver",
+    "price": 974.82,
+    "rating": 4.7,
+    "reviews": 852,
+    "in_stock": true,
+    "attributes": {
+      "author": "Sarah Williams",
+      "pages": 786,
+      "language": "English",
+      "format": "Paperback",
+      "publication_year": 2011,
+      "genre": "Science Fiction"
+    }
+  },
+  {
+    "id": 1068,
+    "name": "A Complete Guide to Fiction",
+    "category": "Books",
+    "brand": "FictionHouse",
+    "price": 548.1,
+    "rating": 4.0,
+    "reviews": 47,
+    "in_stock": false,
+    "attributes": {
+      "author": "Jane Smith",
+      "pages": 259,
+      "language": "English",
+      "format": "E-book",
+      "publication_year": 1994,
+      "genre": "Fiction"
+    }
+  },
+  {
+    "id": 1069,
+    "name": "The Great History of Romance",
+    "category": "Books",
+    "brand": "KnowledgePress",
+    "price": 857.79,
+    "rating": 3.7,
+    "reviews": 215,
+    "in_stock": true,
+    "attributes": {
+      "author": "Michael Johnson",
+      "pages": 790,
+      "language": "English",
+      "format": "E-book",
+      "publication_year": 2016,
+      "genre": "Romance"
+    }
+  },
+  {
+    "id": 1070,
+    "name": " Ultimate Story of Science Fiction",
+    "category": "Books",
+    "brand": "KnowledgePress",
+    "price": 284.77,
+    "rating": 4.7,
+    "reviews": 958,
+    "in_stock": true,
+    "attributes": {
+      "author": "Lisa Brown",
+      "pages": 756,
+      "language": "English",
+      "format": "E-book",
+      "publication_year": 2009,
+      "genre": "Science Fiction"
+    }
+  },
+  {
+    "id": 1071,
+    "name": "A Hidden History of Fiction",
+    "category": "Books",
+    "brand": "FictionHouse",
+    "price": 770.15,
+    "rating": 4.6,
+    "reviews": 645,
+    "in_stock": true,
+    "attributes": {
+      "author": "David Davis",
+      "pages": 780,
+      "language": "English",
+      "format": "Audiobook",
+      "publication_year": 2005,
+      "genre": "Fiction"
+    }
+  },
+  {
+    "id": 1072,
+    "name": "A Complete Exploration of Mystery",
+    "category": "Books",
+    "brand": "WisdomBooks",
+    "price": 230.61,
+    "rating": 3.5,
+    "reviews": 597,
+    "in_stock": false,
+    "attributes": {
+      "author": "John Jones",
+      "pages": 722,
+      "language": "English",
+      "format": "Hardcover",
+      "publication_year": 2017,
+      "genre": "Mystery"
+    }
+  },
+  {
+    "id": 1073,
+    "name": " Ultimate Handbook of History",
+    "category": "Books",
+    "brand": "WisdomBooks",
+    "price": 422.93,
+    "rating": 4.0,
+    "reviews": 498,
+    "in_stock": false,
+    "attributes": {
+      "author": "Robert Williams",
+      "pages": 360,
+      "language": "English",
+      "format": "E-book",
+      "publication_year": 2002,
+      "genre": "History"
+    }
+  },
+  {
+    "id": 1074,
+    "name": "A Lost Handbook of Non-fiction",
+    "category": "Books",
+    "brand": "WisdomBooks",
+    "price": 39.97,
+    "rating": 4.8,
+    "reviews": 583,
+    "in_stock": true,
+    "attributes": {
+      "author": "Emily Brown",
+      "pages": 513,
+      "language": "English",
+      "format": "Hardcover",
+      "publication_year": 1992,
+      "genre": "Non-fiction"
+    }
+  },
+  {
+    "id": 1075,
+    "name": "A Hidden Handbook of Romance",
+    "category": "Books",
+    "brand": "WisdomBooks",
+    "price": 98.79,
+    "rating": 4.1,
+    "reviews": 473,
+    "in_stock": false,
+    "attributes": {
+      "author": "Robert Miller",
+      "pages": 413,
+      "language": "English",
+      "format": "Paperback",
+      "publication_year": 1994,
+      "genre": "Romance"
+    }
+  },
+  {
+    "id": 1076,
+    "name": "The Ultimate History of Mystery",
+    "category": "Books",
+    "brand": "KnowledgePress",
+    "price": 984.72,
+    "rating": 4.1,
+    "reviews": 657,
+    "in_stock": false,
+    "attributes": {
+      "author": "Michael Miller",
+      "pages": 367,
+      "language": "English",
+      "format": "Paperback",
+      "publication_year": 2011,
+      "genre": "Mystery"
+    }
+  },
+  {
+    "id": 1077,
+    "name": "The Lost Guide to Non-fiction",
+    "category": "Books",
+    "brand": "StoryWeaver",
+    "price": 565.89,
+    "rating": 4.0,
+    "reviews": 424,
+    "in_stock": true,
+    "attributes": {
+      "author": "John Miller",
+      "pages": 785,
+      "language": "English",
+      "format": "Hardcover",
+      "publication_year": 2007,
+      "genre": "Non-fiction"
+    }
+  },
+  {
+    "id": 1078,
+    "name": "The Ultimate Story of History",
+    "category": "Books",
+    "brand": "KnowledgePress",
+    "price": 139.05,
+    "rating": 3.0,
+    "reviews": 939,
+    "in_stock": true,
+    "attributes": {
+      "author": "Sarah Smith",
+      "pages": 372,
+      "language": "English",
+      "format": "E-book",
+      "publication_year": 2009,
+      "genre": "History"
+    }
+  },
+  {
+    "id": 1079,
+    "name": "A Essential History of Self-help",
+    "category": "Books",
+    "brand": "StoryWeaver",
+    "price": 669.81,
+    "rating": 4.4,
+    "reviews": 565,
+    "in_stock": false,
+    "attributes": {
+      "author": "John Miller",
+      "pages": 612,
+      "language": "English",
+      "format": "Audiobook",
+      "publication_year": 1995,
+      "genre": "Self-help"
+    }
+  },
+  {
+    "id": 1080,
+    "name": "The Hidden Story of Science Fiction",
+    "category": "Books",
+    "brand": "AcademicMinds",
+    "price": 464.89,
+    "rating": 3.1,
+    "reviews": 705,
+    "in_stock": true,
+    "attributes": {
+      "author": "Robert Davis",
+      "pages": 143,
+      "language": "English",
+      "format": "Audiobook",
+      "publication_year": 2015,
+      "genre": "Science Fiction"
+    }
+  },
+  {
+    "id": 1081,
+    "name": "The Essential Guide to Self-help",
+    "category": "Books",
+    "brand": "AcademicMinds",
+    "price": 850.05,
+    "rating": 4.9,
+    "reviews": 275,
+    "in_stock": false,
+    "attributes": {
+      "author": "Jane Jones",
+      "pages": 628,
+      "language": "English",
+      "format": "Audiobook",
+      "publication_year": 2015,
+      "genre": "Self-help"
+    }
+  },
+  {
+    "id": 1082,
+    "name": "A Hidden Guide to Fiction",
+    "category": "Books",
+    "brand": "WisdomBooks",
+    "price": 431.86,
+    "rating": 3.8,
+    "reviews": 356,
+    "in_stock": true,
+    "attributes": {
+      "author": "John Davis",
+      "pages": 562,
+      "language": "English",
+      "format": "Audiobook",
+      "publication_year": 2006,
+      "genre": "Fiction"
+    }
+  },
+  {
+    "id": 1083,
+    "name": "A Essential  Romance",
+    "category": "Books",
+    "brand": "KnowledgePress",
+    "price": 497.97,
+    "rating": 3.5,
+    "reviews": 538,
+    "in_stock": true,
+    "attributes": {
+      "author": "Robert Jones",
+      "pages": 793,
+      "language": "English",
+      "format": "Audiobook",
+      "publication_year": 2013,
+      "genre": "Romance"
+    }
+  },
+  {
+    "id": 1084,
+    "name": "The Secret  Mystery",
+    "category": "Books",
+    "brand": "StoryWeaver",
+    "price": 837.64,
+    "rating": 4.9,
+    "reviews": 641,
+    "in_stock": true,
+    "attributes": {
+      "author": "Emily Davis",
+      "pages": 570,
+      "language": "English",
+      "format": "E-book",
+      "publication_year": 2013,
+      "genre": "Mystery"
+    }
+  },
+  {
+    "id": 1085,
+    "name": "FitnessPro Camping Tent",
+    "category": "Sports & Outdoors",
+    "brand": "FitnessPro",
+    "price": 359.74,
+    "rating": 4.7,
+    "reviews": 737,
+    "in_stock": true,
+    "attributes": {
+      "color": "Blue",
+      "size": "One Size",
+      "weight": "9.2 lbs",
+      "material": "Polyester",
+      "skill_level": "All Levels"
+    }
+  },
+  {
+    "id": 1086,
+    "name": "NatureGear Bicycle",
+    "category": "Sports & Outdoors",
+    "brand": "NatureGear",
+    "price": 90.63,
+    "rating": 3.5,
+    "reviews": 193,
+    "in_stock": false,
+    "attributes": {
+      "color": "Green",
+      "size": "L",
+      "weight": "10.1 lbs",
+      "material": "Carbon Fiber",
+      "skill_level": "Intermediate"
+    }
+  },
+  {
+    "id": 1087,
+    "name": "SportElite Tennis Racket",
+    "category": "Sports & Outdoors",
+    "brand": "SportElite",
+    "price": 453.46,
+    "rating": 4.0,
+    "reviews": 842,
+    "in_stock": true,
+    "attributes": {
+      "color": "White",
+      "size": "XL",
+      "weight": "8.2 lbs",
+      "material": "Carbon Fiber",
+      "skill_level": "All Levels"
+    }
+  },
+  {
+    "id": 1088,
+    "name": "FitnessPro Camping Tent",
+    "category": "Sports & Outdoors",
+    "brand": "FitnessPro",
+    "price": 15.11,
+    "rating": 4.6,
+    "reviews": 967,
+    "in_stock": true,
+    "attributes": {
+      "color": "Red",
+      "size": "XS",
+      "weight": "1.6 lbs",
+      "material": "Rubber",
+      "skill_level": "Beginner"
+    }
+  },
+  {
+    "id": 1089,
+    "name": "SportElite Yoga Mat",
+    "category": "Sports & Outdoors",
+    "brand": "SportElite",
+    "price": 77.63,
+    "rating": 4.6,
+    "reviews": 972,
+    "in_stock": false,
+    "attributes": {
+      "color": "Blue",
+      "size": "L",
+      "weight": "7.9 lbs",
+      "material": "Carbon Fiber",
+      "skill_level": "Beginner"
+    }
+  },
+  {
+    "id": 1090,
+    "name": "OutdoorAdventure Yoga Mat",
+    "category": "Sports & Outdoors",
+    "brand": "OutdoorAdventure",
+    "price": 300.68,
+    "rating": 4.6,
+    "reviews": 66,
+    "in_stock": true,
+    "attributes": {
+      "color": "Red",
+      "size": "S",
+      "weight": "10.6 lbs",
+      "material": "Polyester",
+      "skill_level": "Beginner"
+    }
+  },
+  {
+    "id": 1091,
+    "name": "SportElite Basketball",
+    "category": "Sports & Outdoors",
+    "brand": "SportElite",
+    "price": 235.42,
+    "rating": 4.1,
+    "reviews": 612,
+    "in_stock": true,
+    "attributes": {
+      "color": "Orange",
+      "size": "One Size",
+      "weight": "19.7 lbs",
+      "material": "Metal",
+      "skill_level": "Beginner"
+    }
+  },
+  {
+    "id": 1092,
+    "name": "FitnessPro Fishing Rod",
+    "category": "Sports & Outdoors",
+    "brand": "FitnessPro",
+    "price": 800.2,
+    "rating": 4.8,
+    "reviews": 403,
+    "in_stock": false,
+    "attributes": {
+      "color": "Red",
+      "size": "S",
+      "weight": "3.6 lbs",
+      "material": "Carbon Fiber",
+      "skill_level": "All Levels"
+    }
+  },
+  {
+    "id": 1093,
+    "name": "SportElite Tennis Racket",
+    "category": "Sports & Outdoors",
+    "brand": "SportElite",
+    "price": 680.02,
+    "rating": 3.1,
+    "reviews": 97,
+    "in_stock": false,
+    "attributes": {
+      "color": "Red",
+      "size": "One Size",
+      "weight": "14.5 lbs",
+      "material": "Nylon",
+      "skill_level": "Advanced"
+    }
+  },
+  {
+    "id": 1094,
+    "name": "NatureGear Tennis Racket",
+    "category": "Sports & Outdoors",
+    "brand": "NatureGear",
+    "price": 195.19,
+    "rating": 4.2,
+    "reviews": 110,
+    "in_stock": false,
+    "attributes": {
+      "color": "Yellow",
+      "size": "XL",
+      "weight": "0.8 lbs",
+      "material": "Nylon",
+      "skill_level": "Intermediate"
+    }
+  },
+  {
+    "id": 1095,
+    "name": "FitnessPro Bicycle",
+    "category": "Sports & Outdoors",
+    "brand": "FitnessPro",
+    "price": 760.08,
+    "rating": 4.3,
+    "reviews": 239,
+    "in_stock": false,
+    "attributes": {
+      "color": "White",
+      "size": "M",
+      "weight": "14.0 lbs",
+      "material": "Metal",
+      "skill_level": "Beginner"
+    }
+  },
+  {
+    "id": 1096,
+    "name": "NatureGear Camping Tent",
+    "category": "Sports & Outdoors",
+    "brand": "NatureGear",
+    "price": 359.2,
+    "rating": 3.4,
+    "reviews": 332,
+    "in_stock": true,
+    "attributes": {
+      "color": "Green",
+      "size": "L",
+      "weight": "6.9 lbs",
+      "material": "Nylon",
+      "skill_level": "Advanced"
+    }
+  },
+  {
+    "id": 1097,
+    "name": "NatureGear Fishing Rod",
+    "category": "Sports & Outdoors",
+    "brand": "NatureGear",
+    "price": 920.85,
+    "rating": 3.8,
+    "reviews": 577,
+    "in_stock": false,
+    "attributes": {
+      "color": "Yellow",
+      "size": "S",
+      "weight": "3.7 lbs",
+      "material": "Nylon",
+      "skill_level": "Intermediate"
+    }
+  },
+  {
+    "id": 1098,
+    "name": "SportElite Camping Tent",
+    "category": "Sports & Outdoors",
+    "brand": "SportElite",
+    "price": 253.25,
+    "rating": 3.1,
+    "reviews": 264,
+    "in_stock": true,
+    "attributes": {
+      "color": "Black",
+      "size": "L",
+      "weight": "19.8 lbs",
+      "material": "Nylon",
+      "skill_level": "Beginner"
+    }
+  },
+  {
+    "id": 1099,
+    "name": "AthleteChoice Running Shoes",
+    "category": "Sports & Outdoors",
+    "brand": "AthleteChoice",
+    "price": 992.16,
+    "rating": 3.9,
+    "reviews": 272,
+    "in_stock": true,
+    "attributes": {
+      "color": "Blue",
+      "size": "One Size",
+      "weight": "0.5 lbs",
+      "material": "Rubber",
+      "skill_level": "Beginner"
+    }
+  },
+  {
+    "id": 1100,
+    "name": "SportElite Tennis Racket",
+    "category": "Sports & Outdoors",
+    "brand": "SportElite",
+    "price": 53.74,
+    "rating": 4.3,
+    "reviews": 124,
+    "in_stock": false,
+    "attributes": {
+      "color": "Yellow",
+      "size": "M",
+      "weight": "6.7 lbs",
+      "material": "Polyester",
+      "skill_level": "Professional"
+    }
+  },
+  {
+    "id": 1101,
+    "name": "AthleteChoice Basketball",
+    "category": "Sports & Outdoors",
+    "brand": "AthleteChoice",
+    "price": 549.78,
+    "rating": 4.6,
+    "reviews": 194,
+    "in_stock": true,
+    "attributes": {
+      "color": "Black",
+      "size": "L",
+      "weight": "8.4 lbs",
+      "material": "Nylon",
+      "skill_level": "Intermediate"
+    }
+  },
+  {
+    "id": 1102,
+    "name": "OutdoorAdventure Yoga Mat",
+    "category": "Sports & Outdoors",
+    "brand": "OutdoorAdventure",
+    "price": 602.32,
+    "rating": 4.2,
+    "reviews": 713,
+    "in_stock": false,
+    "attributes": {
+      "color": "Black",
+      "size": "XL",
+      "weight": "6.0 lbs",
+      "material": "Polyester",
+      "skill_level": "Advanced"
+    }
+  },
+  {
+    "id": 1103,
+    "name": "SportElite Tennis Racket",
+    "category": "Sports & Outdoors",
+    "brand": "SportElite",
+    "price": 886.0,
+    "rating": 4.7,
+    "reviews": 583,
+    "in_stock": true,
+    "attributes": {
+      "color": "Orange",
+      "size": "L",
+      "weight": "9.5 lbs",
+      "material": "Carbon Fiber",
+      "skill_level": "Professional"
+    }
+  },
+  {
+    "id": 1104,
+    "name": "AthleteChoice Bicycle",
+    "category": "Sports & Outdoors",
+    "brand": "AthleteChoice",
+    "price": 43.74,
+    "rating": 4.2,
+    "reviews": 761,
+    "in_stock": false,
+    "attributes": {
+      "color": "White",
+      "size": "M",
+      "weight": "15.8 lbs",
+      "material": "Rubber",
+      "skill_level": "Beginner"
+    }
+  },
+  {
+    "id": 1105,
+    "name": "FitnessPro Camping Tent",
+    "category": "Sports & Outdoors",
+    "brand": "FitnessPro",
+    "price": 122.58,
+    "rating": 4.8,
+    "reviews": 240,
+    "in_stock": true,
+    "attributes": {
+      "color": "Black",
+      "size": "XL",
+      "weight": "18.7 lbs",
+      "material": "Nylon",
+      "skill_level": "Beginner"
+    }
+  },
+  {
+    "id": 1106,
+    "name": "NatureGear Running Shoes",
+    "category": "Sports & Outdoors",
+    "brand": "NatureGear",
+    "price": 321.29,
+    "rating": 4.2,
+    "reviews": 235,
+    "in_stock": true,
+    "attributes": {
+      "color": "Black",
+      "size": "M",
+      "weight": "12.0 lbs",
+      "material": "Metal",
+      "skill_level": "Intermediate"
+    }
+  },
+  {
+    "id": 1107,
+    "name": "NatureGear Running Shoes",
+    "category": "Sports & Outdoors",
+    "brand": "NatureGear",
+    "price": 460.28,
+    "rating": 3.2,
+    "reviews": 262,
+    "in_stock": false,
+    "attributes": {
+      "color": "Orange",
+      "size": "XL",
+      "weight": "11.1 lbs",
+      "material": "Polyester",
+      "skill_level": "All Levels"
+    }
+  },
+  {
+    "id": 1108,
+    "name": "AthleteChoice Bicycle",
+    "category": "Sports & Outdoors",
+    "brand": "AthleteChoice",
+    "price": 104.45,
+    "rating": 4.0,
+    "reviews": 954,
+    "in_stock": false,
+    "attributes": {
+      "color": "Black",
+      "size": "S",
+      "weight": "5.1 lbs",
+      "material": "Metal",
+      "skill_level": "Intermediate"
+    }
+  }
+]
